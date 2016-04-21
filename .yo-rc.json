@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Cloud9: Pelleter dans le nuage",
+    "packageVersion": "0.0.0",
+    "revealTheme": "league",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "emileber",
+    "githubRepository": "cloud9-reveal"
+  }
+}
