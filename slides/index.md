@@ -3,10 +3,6 @@
 
 ## Pelleter dans le nuage
 
-From the terminal, pop in:
+Émile Bergeron, Anal.-programmeur  
 
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+L'entreprise TLM

@@ -1,1 +1,18 @@
-["index.md"]
+[
+    "index.md",
+
+    [
+        "what.md",
+        "what/image.md",
+        "what/feature.md",
+        "what/console.md",
+        "what/browser.md",
+        "what/public.md"
+    ],
+    "demo.md",
+    [
+        "cons.md",
+        "alternative.md"
+    ],
+    "merci.md"
+]
