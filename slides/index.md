@@ -3,6 +3,6 @@
 
 ## Pelleter dans le nuage
 
-Émile Bergeron, Anal.-programmeur  
+Émile Bergeron, **Anal**.-programmeur  
 
 L'entreprise TLM
